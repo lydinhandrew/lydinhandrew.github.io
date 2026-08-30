@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Hello, and welcome to my personal website!**
+subtitle: Hello, and welcome to my personal website!
 
 profile:
   align: right
